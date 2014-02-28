@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PasswordManager</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_id">Id:</string>
+    <string name="user_id_hint">Provide Master Id</string>    
+    <string name="user_password">Password:</string>
+    <string name="user_password_hint">Provide Master Password</string>
+    <string name="button_login">Login</string>
+</resources>
